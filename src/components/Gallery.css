@@ -1,0 +1,27 @@
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}
+
+/* Image container – same size for all */
+.gallery-item {
+  height: 220px;              /* 🔑 fixed height */
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+}
+
+/* Image fills container */
+.gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;          /* 🔑 crops but keeps ratio */
+  display: block;
+}
+@media (max-width: 600px) {
+  .gallery-item {
+    height: 180px;
+  }
+}

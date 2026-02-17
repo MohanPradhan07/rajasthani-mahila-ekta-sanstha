@@ -1,0 +1,17 @@
+.team-grid {
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+}
+
+.team-card {
+  width: 200px;
+  text-align: center;
+}
+
+.team-card img {
+  width: 100%;
+
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
