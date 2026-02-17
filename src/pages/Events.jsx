@@ -1,17 +1,16 @@
 import './Events.css'
 export default function Events() {
-     const photos = [
-    "/public/img.jpg",
-    "/public/img1.jpg",
-    "/public/img8.jpg",
-    "/public/img3.jpg",
-    "/public/img4.jpg",
-    "/public/img5.jpg",
-    "/public/img6.jpg",
-    "/public/img2.jpg",
-    
-  
-  ];
+    const photos = [
+  "/img.jpg",
+  "/img1.jpg",
+  "/img8.jpg",
+  "/img3.jpg",
+  "/img4.jpg",
+  "/img5.jpg",
+  "/img6.jpg",
+  "/img2.jpg",
+];
+
   return (
     <div className="container glass-card" style={{ marginTop: "40px" }}>
       <h1>Our Events</h1>

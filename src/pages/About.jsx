@@ -5,7 +5,7 @@ export default function About() {
       <h1>About Us</h1>
       <div className="about-img-box">
         <img
-          src="/public/img5.jpg" // <-- replace with your actual image path
+          src="/img5.jpg" // <-- replace with your actual image path
           alt="Our NGO"
           className="about-img"
         />
@@ -47,7 +47,7 @@ export default function About() {
       </p>
       <div className="about-img-box">
         <img
-          src="/public/img7.jpg" // <-- replace with your actual image path
+          src="/img7.jpg" // <-- replace with your actual image path
           alt="Our NGO"
           className="about-img1"
         />
