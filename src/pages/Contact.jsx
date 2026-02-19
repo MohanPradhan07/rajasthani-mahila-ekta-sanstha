@@ -16,7 +16,7 @@ export default function Contact() {
       {/* --- Social Icons Section --- */}
       <div className="social-links">
         <a
-          href="https://instagram.com/"
+          href="https://www.instagram.com/shgatu_2009?igsh=a3c4Y3MydmU2bWN3"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -24,7 +24,7 @@ export default function Contact() {
         </a>
 
         <a
-          href="https://facebook.com/"
+          href="https://www.facebook.com/share/1DpDc4tKyA/"
           target="_blank"
           rel="noopener noreferrer"
         >
