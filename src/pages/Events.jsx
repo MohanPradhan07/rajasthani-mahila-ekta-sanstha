@@ -21,6 +21,7 @@ export default function Events() {
     "/img14.jpg",
     "/img15.jpg",
     "/img16.jpg",
+    "/img17.jpg",
   ];
 
   return (
