@@ -1,7 +1,8 @@
-#🌸 Rajasthani Mahile Ekta Santha
+🌸 Rajasthani Mahile Ekta Santha
 
-A simple web-based application developed for Rajasthani Mahile Ekta Santha
-This project is built using React.js, React Router DOM, and basic frontend technologies.
+A simple web-based application developed for Rajasthani Mahile Ekta Santha.
+
+This project is built using React.js, React Router DOM, and basic frontend technologies to provide smooth navigation and a clean user interface.
 
 ---
 
