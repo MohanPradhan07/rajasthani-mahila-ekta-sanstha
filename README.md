@@ -7,6 +7,7 @@ This project is built using React.js, React Router DOM, and basic frontend techn
 ---
 
 ##🚀 Features
+
 Smooth Page Navigation
 Clean and Simple UI
 
